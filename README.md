@@ -1,6 +1,6 @@
 # Enterprise BI Foundation for a Digital Bank
 
-Built as part of the **BI Lead case study for Mal**, a Sharia-compliant digital bank.
+Built as part of the **BI Lead case study**
 
 A working prototype of an enterprise BI foundation covering an Executive Dashboard, a Credit & Lending domain dashboard, a Metric Conflict Resolution view, a KPI Dictionary, and a Self-Service Analytics section, all delivered within a single live Metabase dashboard.
 
